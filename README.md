@@ -1,5 +1,5 @@
 Twitter: @Daira_Ai_Sol
-# **DAIRA-CBI: Decentralized AI Research Assistant for Crypto Behavior Intelligence**
+# **DAIRA: Decentralized AI Research Assistant for Crypto Behavior Intelligence**
 
 DAIRA-CBI is an innovative platform designed to analyze and predict cryptocurrency behaviors using advanced AI, specifically tailored for the Solana blockchain. It empowers users with actionable insights into market trends, wallet activities, and social sentiment to make informed decisions in the fast-paced world of crypto trading and investment.
 
