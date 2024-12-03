@@ -1,0 +1,16 @@
+mkdir DAIRA-CBI
+mkdir DAIRA-CBI\src
+mkdir DAIRA-CBI\src\modules
+mkdir DAIRA-CBI\tests
+mkdir DAIRA-CBI\docs
+
+New-Item -ItemType File DAIRA-CBI\README.md
+New-Item -ItemType File DAIRA-CBI\LICENSE
+New-Item -ItemType File DAIRA-CBI\requirements.txt
+New-Item -ItemType File DAIRA-CBI\src\main.py
+New-Item -ItemType File DAIRA-CBI\src\modules\wallet_analysis.py
+New-Item -ItemType File DAIRA-CBI\src\modules\sentiment.py
+New-Item -ItemType File DAIRA-CBI\src\modules\solana_data.py
+New-Item -ItemType File DAIRA-CBI\tests\test_wallet_analysis.py
+New-Item -ItemType File DAIRA-CBI\tests\test_solana_data.py
+New-Item -ItemType File DAIRA-CBI\docs\solana_behavior.md
